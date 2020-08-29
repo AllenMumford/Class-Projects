@@ -1,2 +1,2 @@
 # Class-Projects
-Code written for college classes
+Just a few of the many projects written for college classes.
