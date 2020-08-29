@@ -1,11 +1,7 @@
 Allen Mumford
-CS 3345.003
-Fall 2018
-Project 5
+This is a project based on implementing and testing a quicksort algorithm. 
 
-I used Eclipse.
-
-[Pivot Selection Method]: [Time taken in nanoseconds for 100 elements], [1000], [5000], [10000], [50000]
+[Pivot Selection Method]: [Time taken in nanoseconds for 100 elements], [1000 elements], [5000], [10000], [50000]
 
 First Element: 35739, 373789, 1523601, 3819578, 12101650
 Random Element: 56160, 506530, 1852536, 4980329, 23122047
